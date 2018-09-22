@@ -1,0 +1,25 @@
+_repo: Photo-Lithography_55971
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wall, E. J.
+    gutenberg_agent_id: '48602'
+    url: http://www.gutenberg.org/2009/agents/48602
+creator:
+  author:
+    agent_name: Fritz, Georg
+    gutenberg_agent_id: '48601'
+    url: http://www.gutenberg.org/2009/agents/48601
+description: ''
+gutenberg_issued: '2017-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Photo-Lithography
+url: http://www.gutenberg.org/ebooks/55971
