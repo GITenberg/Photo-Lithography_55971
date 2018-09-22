@@ -1,16 +1,21 @@
 _repo: Photo-Lithography_55971
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wall, E. J.
     gutenberg_agent_id: '48602'
     url: http://www.gutenberg.org/2009/agents/48602
+covers:
+- cover_type: archival
+  image_path: 55971-h/images/cover.jpg
 creator:
   author:
     agent_name: Fritz, Georg
     gutenberg_agent_id: '48601'
     url: http://www.gutenberg.org/2009/agents/48601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55971#Photo-Lithography
 gutenberg_issued: '2017-11-14'
 gutenberg_type: Text
 identifiers:
